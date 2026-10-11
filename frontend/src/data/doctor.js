@@ -1,0 +1,60 @@
+const doctors = [
+  {
+    id: 1,
+    name: "DR. THARA",
+    department: "Emergency Medicine",
+    room: "ER-01",
+    floor: "Ground Floor",
+    status: "AVAILABLE",
+  },
+  {
+    id: 2,
+    name: "DR. KATHIR",
+    department: "General Medicine",
+    room: "G-102",
+    floor: "1st Floor",
+    status: "AVAILABLE",
+  },
+  {
+    id: 3,
+    name: "DR. RAMYA",
+    department: "Endodontist",
+    room: "E-201",
+    floor: "2nd Floor",
+    status: "AVAILABLE",
+  },
+  {
+    id: 4,
+    name: "DR. RANJHANA",
+    department: "Cardiologist",
+    room: "C-204",
+    floor: "2nd Floor",
+    status: "AVAILABLE",
+  },
+  {
+    id: 5,
+    name: "DR. RAHUL",
+    department: "Dermatologist",
+    room: "G-105",
+    floor: "1st Floor",
+    status: "AVAILABLE",
+  },
+  {
+    id: 6,
+    name: "DR. RUBA",
+    department: "Pulmonologist",
+    room: "P-202",
+    floor: "2nd Floor",
+    status: "AVAILABLE",
+  },
+  {
+    id: 7,
+    name: "DR. KAVIYA",
+    department: "Gynacologist",
+    room: "GY-301",
+    floor: "3rd Floor",
+    status: "AVAILABLE",
+  },
+];
+
+export default doctors;
